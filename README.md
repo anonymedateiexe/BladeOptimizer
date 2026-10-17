@@ -24,7 +24,11 @@ Built for gamers and everyday users who want a simple, clean, and easy-to-use op
 ## 
 
 <p align="center">
-  <img src="(https://i.postimg.cc/jS52sXh0/Screenshot-2026-10-17-171905.png)" alt="BladeSettings Preview" width="800">
+  <img src="https://i.postimg.cc/jS52sXh0/Screenshot-2026-10-17-171905.png" alt="BladeSettings Preview" width="800">
+</p>
+
+<p align="center">
+  <i>BladeSettings — Optimize. Customize. Perform.</i>
 </p>
 
 ## 📥 Installation
