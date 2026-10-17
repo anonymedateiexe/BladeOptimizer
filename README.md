@@ -6,9 +6,7 @@
 
 Built for gamers and everyday users who want a simple, clean, and easy-to-use optimization tool.
 
-![Status](https://i.postimg.cc/PrWjD82b/Neon-Cyber-Banner-mit-B-Logo-und-AVAILABLE.png) ---https://i.postimg.cc/Wbc0bQdS/Neon-Tech-Banner-Nicht-verfugbar.png
-
----
+![Status](https://i.postimg.cc/PrWjD82b/Neon-Cyber-Banner-mit-B-Logo-und-AVAILABLE.png) 
 
 ## 🎮 Features
 
